@@ -1,4 +1,4 @@
-{
+export default {
   "Академгородок": {
     "address_components": [
       {
