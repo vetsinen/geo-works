@@ -1,0 +1,24 @@
+{
+  "name": "geo-works",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "geocode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vetsinen/geo-works.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vetsinen/geo-works/issues"
+  },
+  "homepage": "https://github.com/vetsinen/geo-works#readme",
+  "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.3.8",
+    "dotenv": "^16.0.0"
+  }
+}
